@@ -1,4 +1,4 @@
 arduino-sequencer
 =================
 
-Moved to arduinoSequencer
+Moved to https://github.com/fwonkas/arduinoSequencer/
